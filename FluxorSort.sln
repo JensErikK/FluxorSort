@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluxorSort", "FluxorSort\FluxorSort.csproj", "{EC6A5D74-D33C-4B5E-A6F1-B0E07FA42231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6A5D74-D33C-4B5E-A6F1-B0E07FA42231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6A5D74-D33C-4B5E-A6F1-B0E07FA42231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6A5D74-D33C-4B5E-A6F1-B0E07FA42231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6A5D74-D33C-4B5E-A6F1-B0E07FA42231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

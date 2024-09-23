@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FluxorSort
+build_property.RootNamespace = FluxorSort
+build_property.ProjectDir = C:\Repos\FluxorSort\FluxorSort\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Repos\FluxorSort\FluxorSort
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Repos/FluxorSort/FluxorSort/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/FluxorSort/FluxorSort/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/FluxorSort/FluxorSort/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/FluxorSort/FluxorSort/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/FluxorSort/FluxorSort/Features/Counter/CounterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcQ291bnRlclxDb3VudGVyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/FluxorSort/FluxorSort/Features/Sorting/Components/SorterSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU29ydGluZ1xDb21wb25lbnRzXFNvcnRlclNlbGVjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/FluxorSort/FluxorSort/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/FluxorSort/FluxorSort/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-dhphhfafrw
+
+[C:/Repos/FluxorSort/FluxorSort/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-1msiiba5te
+
+[C:/Repos/FluxorSort/FluxorSort/Features/Sorting/Components/SortingArray.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU29ydGluZ1xDb21wb25lbnRzXFNvcnRpbmdBcnJheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-razyet2jpj
+
+[C:/Repos/FluxorSort/FluxorSort/Features/Sorting/SortingPage.Razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU29ydGluZ1xTb3J0aW5nUGFnZS5SYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-zce2o7zpm1
