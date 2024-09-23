@@ -13,8 +13,8 @@ public partial class CounterPage
     [Inject]
     private IDispatcher Dispatcher { get; set; }
 
-    private void IncrementCount()
+    private void IncrementCount(int increment)
     {
-        Dispatcher.Dispatch(new IncrementCounterAction(1));
+        Dispatcher.Dispatch(new IncrementCounterAction(increment));
     }
 }
